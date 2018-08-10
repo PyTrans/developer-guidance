@@ -1,0 +1,25 @@
+Urban Network Analysis 
+==============================
+.. automodule:: PyTrans.UrbanNetworkAnalysis
+
+
+Trip Assignment – Transportation Networks
+-----------------------------------------------------------------------------------
+.. automodule:: PyTrans.UrbanNetworkAnalysis.TransportationNetworks
+    :members:
+
+Trip Assignment – Frank-Wolfe algorithm
+-----------------------------------------------------------------------------------
+.. automodule:: PyTrans.UrbanNetworkAnalysis.Frank_Wolfe
+    :members:
+
+Trip Assignment – User Equilibrium & System Optimum
+-----------------------------------------------------------------------------------
+
+Trip Assignment – Path based assignment & Gradient Programming
+-----------------------------------------------------------------------------------
+
+Trip Assignment – Dynamic Traffic Assignment
+-----------------------------------------------------------------------------------
+
+    
