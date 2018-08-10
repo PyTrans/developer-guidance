@@ -1,7 +1,0 @@
-PyTrans
-=======
-
-.. toctree::
-   :maxdepth: 4
-
-   PyTrans
